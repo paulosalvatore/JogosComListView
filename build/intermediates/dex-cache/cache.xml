@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\paulo\Documents\GitHub\JogosComListView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b5ba4427623c8a39e0ac735afa91101bf8253c59">
+        <dex dex="C:\Users\paulo\Documents\GitHub\JogosComListView\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_76137da768fb29d8fbb43a76f9fb56147d64ef52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\paulo\Documents\GitHub\JogosComListView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\paulo\Documents\GitHub\JogosComListView\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_456b8db38728167b9b86e87a5979365f12074d88\classes.dex" />
+    </item>
+
+</items>
